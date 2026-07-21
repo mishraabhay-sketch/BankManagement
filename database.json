@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Abhay Mishra",
+        "age": 22,
+        "mail": "abhaymishra25@gmail.com",
+        "Balance": 2500,
+        "account_no": "FHGI88203222",
+        "number": 9632587412,
+        "pin": 8521
+    },
+    {
+        "name": "Aditi ",
+        "age": 20,
+        "mail": "aditisingh@gmail.com",
+        "Balance": 3000,
+        "account_no": "UXWU97199360",
+        "number": 7896541236,
+        "pin": 9874
+    }
+]
